@@ -1,0 +1,5 @@
+behave==1.2.6
+requests==2.31.0
+faker==24.8.0          # para gerar dados dinâmicos
+jsonschema==4.22.0     # para validar retorno das APIs
+pytest==7.4.0          # para executar os testes
